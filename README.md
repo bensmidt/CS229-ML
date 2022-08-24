@@ -5,7 +5,7 @@ Lectures are freely available on [YouTube](https://www.youtube.com/playlist?list
 ## Lectures Notes
 My annotations of the class lecture notes can be found [here](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/AnnotatedLecNotes/Supervised)
 
-My personal lecture notes are too large to store on GitHub so you can find them here using Google Drive. 
+My personal lecture notes are too large to store on GitHub so you can find them here on my Google Drive. 
 
 ## Problem Sets
 [Problem Set Instruction](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Problem-Sets)
@@ -16,10 +16,10 @@ My personal lecture notes are too large to store on GitHub so you can find them 
 3. [Poisson Regression](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p03d_poisson.py)
 4. Convexity of Generalized Linear Models
 
-6. Locally Weighted Linear Regression \n
-    - Part A: Math (pg. 3) \n
-    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05b_lwr.py) \n
-    - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py) \n
+6. Locally Weighted Linear Regression
+  - Part A: Math (pg. 3)
+  - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05b_lwr.py)
+  - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
 
 ### Problem Set 2
 1. 
