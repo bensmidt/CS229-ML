@@ -2,10 +2,10 @@
 My solutions to Stanford's public course [CS229: Machine Learning](https://cs229.stanford.edu/syllabus-autumn2018.html), taught by Andrew Ng (Fall 2018).
 Lectures are freely available on [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). 
 
-## Lectures Notes
+## Lecture Notes
 My annotations of the class lecture notes can be found [here](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/AnnotatedLecNotes/Supervised)
 
-My personal lecture notes are too large to store on GitHub so you can find them [here](https://drive.google.com/file/d/1HR9ji_F64mLXg3i-ZzgLo7budN3ESA65/view?usp=sharing) on my Google Drive (Note that this file is too large to view in Google Drive so you'll have to use a third party service such as Lumin or download it to your computer).
+My personal notes of the lecture videos are too large to store on GitHub so you can find them [here](https://drive.google.com/file/d/1HR9ji_F64mLXg3i-ZzgLo7budN3ESA65/view?usp=sharing) on my Google Drive (Note that this file is likely too large to view in Google Drive so you'll have to use a third party service such as Lumin or download it to your computer).
 
 ## Problem Sets
 The problem set assignments (instructions) can be found [here](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Problem-Sets). All coding assignments are programmed in Python using NumPy and Matplotlib. 
@@ -42,5 +42,8 @@ Below I've linked my coding assignment solutions (GitHub) and my math solutions 
     - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
 
 ### Problem Set 2
-1. 
+
+### Problem Set 3
+
+### Problem Set 4
 
