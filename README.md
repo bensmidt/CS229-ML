@@ -1,3 +1,8 @@
+# About Me
+I am a 3rd year at the University of Texas at Austin (hook'em!) studying Electrical and Computer Engineering and Math. I'm the CTO of [Clips](https://www.clipsai.com/) (checkout the link for more information!) which heavily utilizes machine learning, specifically deep learning and natural language processing. I've decided to complete this course (as well as other public courses EECS498/CS231N: Deep Learning for Computer Vision and CS224N: Deep Learning with Natural Language Processing) to gain the required knowledge in Machine Learning and Deep Learning to be able to properly build the models we're using at Clips. 
+
+You can find out more about me at my [LinkedIn](https://www.linkedin.com/in/benjamin-smidt/). If you have any questions about my solutions, learning machine learning, or just want connect, feel free to follow me and reach out on LinkedIn. I can be a little slow to respond depending my current responsiblities but I can assure you I will respond! I hope you enjoy this course as much as I have and that my solutions are helpful :)
+
 # CS229-ML-Autumn-2018
 My solutions to Stanford's public course [CS229: Machine Learning](https://cs229.stanford.edu/syllabus-autumn2018.html), taught by Andrew Ng (Fall 2018).
 Lectures are freely available on [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). 
