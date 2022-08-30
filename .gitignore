@@ -1,3 +1,16 @@
-".jpeg" 
-".png" 
-"__pycache__" 
+__pycache__
+.DS_Store
+
+# PS1-5 outputs
+c_tau=0.1.jpeg
+c_tau=0.02.jpeg
+c_tau=0.2.jpeg
+c_tau=0.03.jpeg
+c_tau=0.04.jpeg
+c_tau=0.5.jpeg
+c_tau=0.03.jpeg
+c_tau=0.8.jpeg
+c_tau=0.15.jpeg
+c_tau=1.jpeg
+
+c_tau=0.08.jpeg
