@@ -19,7 +19,7 @@ def main():
     data_dir = os.path.join(os.path.dirname(__file__), '..', 'data')
     train_path = os.path.join(data_dir, 'ds5_train.csv')
     valid_path = os.path.join(data_dir, 'ds5_valid.csv')
-    pred_path = os.path.join(os.path.dirname(__file__), 'output')
+    pred_path = os.path.join(os.path.dirname(__file__), 'output', 'P5')
 
     # Load training set
     x_train, y_train = util.load_dataset(train_path, add_intercept=True)
@@ -42,8 +42,6 @@ def main():
     plt.plot(x_train, y_train, 'bx')
     plt.plot(x_valid, predictions, 'go')
     plt.savefig(os.path.join(pred_path, 'p05b_lwr.jpeg'))
-    # No need to save predictions
-    # Plot data
     # *** END CODE HERE ***
 
 

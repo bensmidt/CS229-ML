@@ -22,17 +22,19 @@ def main():
     data_dir = os.path.join(os.path.dirname(__file__), '..', 'data')
     train_path = os.path.join(data_dir, 'ds5_train.csv')
     valid_path = os.path.join(data_dir, 'ds5_valid.csv')
-    pred_path = os.path.join(os.path.dirname(__file__), 'output')
+    test_path = os.path.join(data_dir, 'ds5_test.csv')
+    pred_path = os.path.join(os.path.dirname(__file__), 'output', 'P5')
 
-    # Load training set
+    # Load training, validation, and test sets
     x_train, y_train = util.load_dataset(train_path, add_intercept=True)
-    x_valid, y_valid = util.load_dataset(train_path, add_intercept=True)
+    x_valid, y_valid = util.load_dataset(valid_path, add_intercept=True)
+    x_test, y_test = util.load_dataset(test_path, add_intercept=True)
 
     # Search tau_values for the best tau (lowest MSE on the validation set)
-    tau = 1
+    taus = [1, 0.8, 0.5, 0.2, 0.15, 0.1, 0.08, 0.05, 0.04, 0.03, 0.02]
     mse_best = inf
     tau_best = 1
-    for i in range(10): 
+    for tau in taus: 
         Model = LWLR(tau)
         Model.fit(x_train, y_train)
 
@@ -46,15 +48,24 @@ def main():
         plt.figure()
         plt.plot(x_valid, y_valid, 'bx')
         plt.plot(x_valid, predictions, 'go')
-        plt.savefig(os.path.join(pred_path, 'p05c_lwr_tau={}.jpeg'.format(tau))) 
+        plt.savefig(os.path.join(pred_path, 'c_tau={}.jpeg'.format(tau))) 
 
-        # this tau was a random choice; I didn't have access to the given values to be tested 
-        # so I just chose to continually divide by this number to be honest
-        # It's not very scientific but I'm still learning
-        tau /= 1.4
+    print("Best tau on validation set =", tau_best, "with MSE of", mse_best)
 
-    print("Best tau =", tau_best, "with MSE of", mse_best)
+    # get test set results with best tau 
+    Model = LWLR(tau_best)
+    Model.fit(x_train, y_train)
+    test_pred = Model.predict(x_test)
 
-    # should test on test set here, need to move on though unfortunately 
+    # MSE
+    mse = np.mean((test_pred - y_test)**2)
+    print("Test set MSE with a tau of {} =".format(tau_best), mse)
+
+    # plot results
+    plt.figure()
+    plt.plot(x_test, y_test, 'bx')
+    plt.plot(x_test, test_pred, 'go')
+    plt.savefig(os.path.join(pred_path, 'c_test_tau={}.jpeg'.format(tau_best)))
+
 if __name__ == "__main__": 
     main()

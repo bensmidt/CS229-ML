@@ -18,7 +18,7 @@ def main():
     data_dir = os.path.join(os.path.dirname(__file__), '..', 'data')
     train_path = os.path.join(data_dir, 'ds4_train.csv')
     valid_path = os.path.join(data_dir, 'ds4_valid.csv')
-    pred_path = os.path.join(os.path.dirname(__file__), 'output')
+    pred_path = os.path.join(os.path.dirname(__file__), 'output', 'P3')
 
     # Get data
     x_train, y_train = util.load_dataset(train_path, add_intercept=False)
@@ -27,14 +27,21 @@ def main():
     # Fit a Poisson Regression model
     Model = PoissonRegression(step_size = 0.0000001, eps = 1e-5)
     Model.fit(x_train, y_train)
-    predictions = Model.predict(x_valid)
+    train_pred = Model.predict(x_train)
+    val_pred = Model.predict(x_valid)
 
-    # plot results
+    # plot validation set
     plt.figure()
-    plt.plot(y_valid, predictions, 'cx')
-    plt.savefig(os.path.join(pred_path, 'p03d_poi_valid.jpeg'))
+    plt.plot(y_valid, val_pred, 'cx')
+    plt.savefig(os.path.join(pred_path, 'valid.jpeg'))
 
-    np.savetxt(os.path.join(pred_path, 'p03d_poi_valid.txt'), predictions)
+    # plot train set
+    plt.figure()
+    plt.plot(y_train, train_pred, 'cx')
+    plt.savefig(os.path.join(pred_path, 'train.jpeg'))
+
+    # save results
+    np.savetxt(os.path.join(pred_path, 'valid.txt'), val_pred)
 
 
 class PoissonRegression(LinearModel):
