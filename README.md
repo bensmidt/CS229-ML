@@ -28,23 +28,23 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
 
 1. Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis)
   IN PROGRESS
-    - Parts A, C, D: Math (pg. 1)
-    - Part B, C, D
+    - Parts A, C, D: Math (pg. 1-3)
+    - Parts B, C, D
 
 2. Incomplete, Positive-Only Labels
   IN PROGRESS
-    - Parts A, B: Math (pg. 1)
+    - Parts A, B: Math (pg. 3)
     - Part C, D, E
 
 3. Poisson Regression
-    - Parts A, B, C: Math (pg. 2)
+    - Parts A, B, C: Math (pg. 4)
     - [Part D](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p03d_poisson.py)
 
 4. Convexity of Generalized Linear Models
-    - Parts A, B, C: Math (pg. 2)
+    - Parts A, B, C: Math (pg. 4)
 
 5. Locally Weighted Linear Regression
-    - Part A: Math (pg. 3)
+    - Part A: Math (pg. 5)
     - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05b_lwr.py)
     - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
 
