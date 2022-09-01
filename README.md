@@ -27,15 +27,15 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
 [Math Solutions](https://drive.google.com/file/d/1_YopHEnhSM0Fnj19SnYsPiKxzlx-Q6ek/view?usp=sharing)
 
 1. Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis)
-    - Part A: Math (pg. 1-2)
+    - Part A: Math (pgs. 1-2)
     - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p01b_logreg.py)
-    - Parts C, D: Math (pg. 2-3)
+    - Parts C, D: Math (pgs. 2-3)
     - [Parts E, F, G](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p01e_gda.py)
     - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P1)
 
 2. Incomplete, Positive-Only Labels
   IN PROGRESS
-    - Parts A, B: Math (pg. 3)
+    - Parts A, B: Math (pg. 4)
     - Part C, D, E
 
 3. Poisson Regression
@@ -44,10 +44,10 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
     - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P3)
 
 4. Convexity of Generalized Linear Models (No programming)
-    - Parts A, B, C: Math (pg. 4)
+    - Parts A, B, C: Math (pg. 5)
 
 5. Locally Weighted Linear Regression
-    - Part A: Math (pg. 5)
+    - Part A: Math (pgs. 5-6)
     - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05b_lwr.py)
     - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
     - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P5)
