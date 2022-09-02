@@ -60,7 +60,7 @@ class PoissonRegression(LinearModel):
         m, n = x.shape
         return x.T.dot(y - np.exp(self.theta.dot(x.T))) / m
 
-    def fit(self, x, y):
+    def fit(self, x, y, verbose=False):
         """Run gradient ascent to maximize likelihood for Poisson regression.
         Args:
             x: Training example inputs. Shape (m, n).
@@ -82,7 +82,7 @@ class PoissonRegression(LinearModel):
             theta_diff = np.linalg.norm((theta - self.theta), ord = 1)
             accpt_err = (theta_diff < self.eps)
 
-            if (i % 100 == 0): 
+            if verbose == True and (i % 100 == 0): 
                 print('Iterations = {}.'.format(i), 'theta_diff = {}'. format(theta_diff))
         
         return

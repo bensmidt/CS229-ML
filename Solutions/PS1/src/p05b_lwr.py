@@ -32,6 +32,7 @@ def main():
     # Load validation set
     x_valid, y_valid = util.load_dataset(valid_path, add_intercept=True)
     predictions = Model.predict(x_valid)
+    print(predictions)
 
     # Get MSE value on the validation set
     mse = np.mean((predictions - y_valid)**2)
