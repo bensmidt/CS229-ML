@@ -36,7 +36,7 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
 2. Incomplete, Positive-Only Labels
   IN PROGRESS
     - Parts A, B: Math (pg. 4)
-    - Part C, D, E
+    - [Part C, D, E](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p02cde_posonly.py)
 
 3. Poisson Regression
     - Parts A, B, C: Math (pg. 4)
