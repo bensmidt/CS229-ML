@@ -34,7 +34,6 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
     - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P1)
 
 2. Incomplete, Positive-Only Labels
-  IN PROGRESS
     - Parts A, B: Math (pg. 4)
     - [Part C, D, E](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p02cde_posonly.py)
 
