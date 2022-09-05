@@ -1,0 +1,1 @@
+This file is only here so this directory shows up in GitHub. I've ignored pictures since they take up too much space
