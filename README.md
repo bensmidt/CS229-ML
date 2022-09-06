@@ -48,6 +48,23 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
 
 ### Problem Set 2
 
+[Problem Set 2 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Problem-Sets/Prob-Set-2.pdf)
+
+[Math Solutions](https://drive.google.com/file/d/1VUtAs6Ng9tObIk7pBjrHTBQSDZ34qf7t/view?usp=sharing)
+
+1. Logistic Regression Training Stability
+    - [Parts A, B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS2/src/p01_lr.py)
+    - Parts C, D: Math (pg. 1)
+
+2. Model Calibration (No programming)
+    - Parts A, B, C: Math (pgs. 1-2)
+
+3. Bayesian Interpretation of Regularization (no programming)
+    - Parts A, B, C, D: Math (pgs. 2-3)
+
+4. Constructing Kernels (No programming)
+    - Parts A - H: Math (pg. 3)
+
 ### Problem Set 3
 
 ### Problem Set 4
