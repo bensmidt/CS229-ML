@@ -30,21 +30,22 @@ Below I've linked coding assignment solutions (in this repo) for individual prob
 
 2. Incomplete, Positive-Only Labels
     - Parts A, B: Math (pg. 4)
-    - [Part C, D, E](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p02cde_posonly.py)
+    - [Part C, D, E](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p02cde_posonly.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P2)
 
 3. Poisson Regression
     - Parts A, B, C: Math (pg. 4)
-    - [Part D](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p03d_poisson.py)
-    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P3)
+    - [Part D](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p03d_poisson.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P3)
 
 4. Convexity of Generalized Linear Models (No programming)
     - Parts A, B, C: Math (pg. 5)
 
 5. Locally Weighted Linear Regression
     - Part A: Math (pgs. 5-6)
-    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05b_lwr.py)
-    - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
-    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P5)
+    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p05b_lwr.py)
+    - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p05c_tau.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P5)
 
 ## Problem Set 2
 
