@@ -17,38 +17,39 @@ I began this course writing my solutions on my iPad and storing them on Google D
 Below I've linked coding assignment solutions (in this repo) for individual problems and a PDF of math solutions (Google Drive or GitHub) for each problem set. Page numbers for PDFs are provided below as well. 
 
 ## Problem Set 1
-[Problem Set 1 Instructions]([https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Problem-Sets/Prob-Set-1.pdf](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/PS1/PS1-Instructions.pdf))
+[Problem Set 1 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/PS1-Instructions.pdf)
 
 [Math Solutions](https://drive.google.com/file/d/1_YopHEnhSM0Fnj19SnYsPiKxzlx-Q6ek/view?usp=sharing)
 
 1. Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis)
     - Part A: Math (pgs. 1-2)
-    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p01b_logreg.py)
+    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p01b_logreg.py)
     - Parts C, D: Math (pgs. 2-3)
-    - [Parts E, F, G](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p01e_gda.py)
-    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P1)
+    - [Parts E, F, G](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p01e_gda.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P1)
 
 2. Incomplete, Positive-Only Labels
     - Parts A, B: Math (pg. 4)
-    - [Part C, D, E](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p02cde_posonly.py)
+    - [Part C, D, E](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p02cde_posonly.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P2)
 
 3. Poisson Regression
     - Parts A, B, C: Math (pg. 4)
-    - [Part D](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p03d_poisson.py)
-    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P3)
+    - [Part D](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p03d_poisson.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P3)
 
 4. Convexity of Generalized Linear Models (No programming)
     - Parts A, B, C: Math (pg. 5)
 
 5. Locally Weighted Linear Regression
     - Part A: Math (pgs. 5-6)
-    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05b_lwr.py)
-    - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
-    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P5)
+    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p05b_lwr.py)
+    - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p05c_tau.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P5)
 
 ## Problem Set 2
 
-[Problem Set 2 Instructions]([https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Problem-Sets/Prob-Set-2.pdf](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/PS2/PS2-Instructions.pdf))
+[Problem Set 2 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet2/PS2-Instructions.pdf)
 
 [Math Solutions](https://drive.google.com/file/d/1VUtAs6Ng9tObIk7pBjrHTBQSDZ34qf7t/view?usp=sharing)
 
