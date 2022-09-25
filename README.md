@@ -23,10 +23,10 @@ Below I've linked coding assignment solutions (in this repo) for individual prob
 
 1. Linear Classifiers (Logistic Regression and Gaussian Discriminant Analysis)
     - Part A: Math (pgs. 1-2)
-    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p01b_logreg.py)
+    - [Part B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p01b_logreg.py)
     - Parts C, D: Math (pgs. 2-3)
-    - [Parts E, F, G](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p01e_gda.py)
-    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P1)
+    - [Parts E, F, G](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/src/p01e_gda.py)
+    - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/ProbSet1/src/output/P1)
 
 2. Incomplete, Positive-Only Labels
     - Parts A, B: Math (pg. 4)
