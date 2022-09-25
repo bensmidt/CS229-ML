@@ -48,7 +48,7 @@ Below I've linked coding assignment solutions (in this repo) for individual prob
 
 ## Problem Set 2
 
-[Problem Set 2 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/PS2/PS2-Instructions.pdf)
+[Problem Set 2 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet2/PS2-Instructions.pdf)
 
 [Math Solutions](https://drive.google.com/file/d/1VUtAs6Ng9tObIk7pBjrHTBQSDZ34qf7t/view?usp=sharing)
 
