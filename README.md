@@ -9,14 +9,14 @@ You can find out more about me at my [LinkedIn](https://www.linkedin.com/in/benj
 
 Last thing, big thank you to Stanford for making these lectures and course material publically available! They are immensely helpful and provide amazing opportunity to learn from many of the best minds in computer science (and other fields). They've been vital in my machine learning journey. 
 
-## Problem Sets
-There are a total of 4 problem sets, each with about 5 problems. Problem set assignments (instructions) can be found in [Problem-Sets](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Problem-Sets). All coding assignments are programmed in Python using NumPy and Matplotlib. 
+# Problem Sets
+There are a total of 4 problem sets, each with about 5 problems. Everything needed, including instructions, are self-contained within its own directory. For example the instructions, starter code, and my solutions for problem set 1 are all located in the directory "ProbSet1". Problem sets contain roughly equal parts coding and mathematics. All coding assignments are programmed in Python using NumPy and Matplotlib.
 
-Problem sets contain roughly equal parts coding and mathematics. Each problem set contains a directory in [Solutions](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions) with my solutions for each problem. Each coding problem in the problem set contains a file (or files) in the "src" directory. The predictions and visualization outputs are located in the "output" directory. For simplicity I've decided to use Google Drive to store my handwritten math solutions since it automatically syncs with GoodNotes (however I may later upload a pdf for each problem set to GitHub since the solutions are concise and the PDFs should be short). 
+I began this course writing my solutions on my iPad and storing them on Google Drive. However, I've transitioned to using LaTex and I'm (slowly) going back and rewriting them in Latex when I have the time. As such, some assignments may be linked to handwritten mathematical solutions and others to a LaTex pdf. Regarding programming, each coding problem in a given ProbSet directory contains a file (or files) in the "src" directory. The predictions and visualization outputs are located in the "output" directory within the "src" directory. 
 
-Below I've linked coding assignment solutions (GitHub) for individual problems and a PDF of math solutions (Google Drive) for each problem set. Page numbers for those PDFs are provided below as well. 
+Below I've linked coding assignment solutions (in this repo) for individual problems and a PDF of math solutions (Google Drive or GitHub) for each problem set. Page numbers for PDFs are provided below as well. 
 
-### Problem Set 1
+## Problem Set 1
 [Problem Set 1 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Problem-Sets/Prob-Set-1.pdf)
 
 [Math Solutions](https://drive.google.com/file/d/1_YopHEnhSM0Fnj19SnYsPiKxzlx-Q6ek/view?usp=sharing)
@@ -46,7 +46,7 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
     - [Part C](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS1/src/p05c_tau.py)
     - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P5)
 
-### Problem Set 2
+## Problem Set 2
 
 [Problem Set 2 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Problem-Sets/Prob-Set-2.pdf)
 
@@ -65,7 +65,7 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
 4. Constructing Kernels (No programming)
     - Parts A - H: Math (pg. 3)
 
-### Problem Set 3
+## Problem Set 3
 
-### Problem Set 4
+## Problem Set 4
 
