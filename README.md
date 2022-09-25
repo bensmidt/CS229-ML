@@ -17,7 +17,7 @@ I began this course writing my solutions on my iPad and storing them on Google D
 Below I've linked coding assignment solutions (in this repo) for individual problems and a PDF of math solutions (Google Drive or GitHub) for each problem set. Page numbers for PDFs are provided below as well. 
 
 ## Problem Set 1
-[Problem Set 1 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/PS1/PS1-Instructions.pdf)
+[Problem Set 1 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/ProbSet1/PS1-Instructions.pdf)
 
 [Math Solutions](https://drive.google.com/file/d/1_YopHEnhSM0Fnj19SnYsPiKxzlx-Q6ek/view?usp=sharing)
 
