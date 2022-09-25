@@ -9,11 +9,6 @@ You can find out more about me at my [LinkedIn](https://www.linkedin.com/in/benj
 
 Last thing, big thank you to Stanford for making these lectures and course material publically available! They are immensely helpful and provide amazing opportunity to learn from many of the best minds in computer science (and other fields). They've been vital in my machine learning journey. 
 
-## Lecture Notes
-
-My annotation of the class lecture notes and my personal notes of the lecture videos are too large to store on GitHub so you can view them using my Google Drive.
-You can find my annotations of the class lecture notes [here](https://drive.google.com/drive/folders/1Ae0qp0J5v_XgKXwF4NZrAqLcA3rztSqZ?usp=sharing) and my personal lecture notes [here](https://drive.google.com/file/d/1HR9ji_F64mLXg3i-ZzgLo7budN3ESA65/view?usp=sharing) on my Google Drive (Note that this file is likely too large to view in Google Drive so you'll have to use a third party service such as Lumin or download it to your computer).
-
 ## Problem Sets
 There are a total of 4 problem sets, each with about 5 problems. Problem set assignments (instructions) can be found in [Problem-Sets](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Problem-Sets). All coding assignments are programmed in Python using NumPy and Matplotlib. 
 
@@ -52,6 +47,23 @@ Below I've linked coding assignment solutions (GitHub) for individual problems a
     - [Output](https://github.com/bensmidt/CS229-ML-Autumn-2018/tree/main/Solutions/PS1/src/output/P5)
 
 ### Problem Set 2
+
+[Problem Set 2 Instructions](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Problem-Sets/Prob-Set-2.pdf)
+
+[Math Solutions](https://drive.google.com/file/d/1VUtAs6Ng9tObIk7pBjrHTBQSDZ34qf7t/view?usp=sharing)
+
+1. Logistic Regression Training Stability
+    - [Parts A, B](https://github.com/bensmidt/CS229-ML-Autumn-2018/blob/main/Solutions/PS2/src/p01_lr.py)
+    - Parts C, D: Math (pg. 1)
+
+2. Model Calibration (No programming)
+    - Parts A, B, C: Math (pgs. 1-2)
+
+3. Bayesian Interpretation of Regularization (no programming)
+    - Parts A, B, C, D: Math (pgs. 2-3)
+
+4. Constructing Kernels (No programming)
+    - Parts A - H: Math (pg. 3)
 
 ### Problem Set 3
 
