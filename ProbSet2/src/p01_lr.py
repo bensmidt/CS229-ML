@@ -48,6 +48,10 @@ def main():
     train_path_a = os.path.join(data_path, 'ds1_a.csv')
     train_path_b = os.path.join(data_path, 'ds1_b.csv')
     pred_path = os.path.join(os.path.dirname(__file__), 'output', 'P1')
+    
+    # get data
+    Xa, Ya = util.load_csv(train_path_a, add_intercept=True)
+    Xb, Yb = util.load_csv(train_path_b, add_intercept=True)
 
     # check what datasets look like
     dataset1a = plt.figure()
